@@ -10,8 +10,8 @@
     "codegen": "graphql-codegen --require dotenv/config --config codegen.ts dotenv_config_path=./.env.local"
   },
   "dependencies": {
-    "@graphql-codegen/cli": "2.13.12",
-    "@graphql-codegen/client-preset": "1.1.4",
+    "@graphql-codegen/cli": "6.2.1",
+    "@graphql-codegen/client-preset": "5.2.4",
     "@graphql-typed-document-node/core": "^3.1.1",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
@@ -22,7 +22,7 @@
     "graphql": "^16.6.0",
     "graphql-request": "^5.0.0",
     "graphql-ws": "^5.11.2",
-    "next": "13.0.3",
+    "next": "15.5.14",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.3"
