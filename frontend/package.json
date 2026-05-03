@@ -184,7 +184,7 @@
     "tslib": "^2.3.0",
     "unplugin": "^1.0.1",
     "use-async-effect": "2.2.7",
-    "uuid": "8.3.2",
+    "uuid": "14.0.0",
     "valid-url": "1.0.9",
     "xstate": "^4.30.1",
     "zod": "3.20.2"
@@ -237,7 +237,7 @@
     "@storybook/testing-react": "1.2.3",
     "@svgr/webpack": "^6.1.2",
     "@swc-node/register": "^1.4.2",
-    "@swc/cli": "~0.1.55",
+    "@swc/cli": "~0.1.65",
     "@swc/core": "^1.2.173",
     "@swc/jest": "0.2.20",
     "@tailwindcss/forms": "^0.5.2",
